@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 body{
-    font-family: 'Fruktur',sans-serif;
+    font-family: 'Dancing Script' ,curive;
     color: #fff;
     background-color: #485461;
     background-image: linear-gradient(0deg,#485461 0%, #28313b 100%);
